@@ -1,7 +1,8 @@
   **************************Churn Analysis using Random Forest Algorithm***********************
 
 Overview
-Customer churn refers to the rate at which customers stop doing business with a company. In competitive industries, understanding the factors that lead to churn and predicting which customers are likely to leave is crucial. In this project, we use the Random Forest algorithm, a powerful ensemble machine learning method, to predict customer churn based on historical data.
+
+ Customer churn refers to the rate at which customers stop doing business with a company. In competitive industries, understanding the factors that lead to churn and predicting which customers are likely to leave is crucial. In this project, we use the Random Forest algorithm, a powerful ensemble machine learning method, to predict customer churn based on historical data.
 
 This analysis aims to:
 
